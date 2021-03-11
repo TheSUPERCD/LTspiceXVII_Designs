@@ -1,0 +1,21 @@
+Circuit: * C:\Users\super\Documents\LTspiceXVII\AND_Gate.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Oct 06 13:23:38 2020
+Total elapsed time: 0.091 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3059
+traniter = 3053
+tranpoints = 1512
+accept = 1439
+rejected = 73
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 178 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2: off  [0.0]/0.1/0.0
+
